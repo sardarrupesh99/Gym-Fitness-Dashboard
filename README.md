@@ -31,7 +31,7 @@ Excel
 Data Visualization
 📷 Dashboard Preview
 
-Add your dashboard screenshot here.
+
 
 💡 Business Insights
 
