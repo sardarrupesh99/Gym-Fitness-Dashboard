@@ -31,7 +31,7 @@ Excel
 Data Visualization
 📷 Dashboard Preview
 
-
+https://github.com/sardarrupesh99/Gym-Fitness-Dashboard/blob/main/Snapshot%20Of%20Dashboard.png
 
 💡 Business Insights
 
