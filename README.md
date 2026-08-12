@@ -102,7 +102,7 @@ This helps monitor individual client activity and membership usage.
 
 ## 📷 Dashboard Preview
 
-![Fitness Analytics Dashboard](Dashboard.png)
+https://github.com/sardarrupesh99/Gym-Fitness-Dashboard/blob/main/Snapshot%20Of%20Dashboard.png
 
 ---
 
